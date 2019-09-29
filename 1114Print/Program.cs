@@ -8,7 +8,7 @@ namespace _1114Print
 {
     class Program
     {
-        static void Main()
+        static void Main2()
         {
             //Console.WriteLine("Hello World!");
 
