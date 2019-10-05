@@ -10,6 +10,9 @@ namespace _1114Print
     {
         static void Main()
         {
+            new Async_Sample1Metanit().Call();
+            return;
+
             //Console.WriteLine("Hello World!");
 
             Console.WriteLine("thread executed {0}", Thread.CurrentThread.ManagedThreadId);
